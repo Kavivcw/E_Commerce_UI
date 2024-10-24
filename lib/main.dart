@@ -536,7 +536,7 @@ class ProductTile extends StatelessWidget {
           children: [
             ProductImage(product: product),
             const SizedBox(
-              height: 9,
+              height: 7,
             ),
             Text(
               product.name,
